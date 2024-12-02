@@ -1,0 +1,15 @@
+/* App.css */
+body {
+  background-color: navy;
+  font-family: Arial, sans-serif;
+  color: white;
+  text-align: center;
+  overflow: hidden;
+}
+
+.app {
+  background-image: url('./components/Background\ image.jpg'); /* Set the path to your image */
+  background-size: cover; /* Cover the entire container */
+  background-position: center; /* Center the image */
+  /* Optionally, you can add more CSS properties to customize the background */
+}
